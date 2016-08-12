@@ -1,0 +1,26 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/cygdrive/c/Users/SBT-Pominov-DS/" . "project/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ 
+)
+
+;; ----- ido-work-file-list -----
+(
+ 
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/cygdrive/c/Users/SBT-Pominov-DS/project/" (22441 31708 164194 800000) "zeromq-4.1.4.tar.gz" "zbx-scr.rar" "Zabbix_ESXi_Template.zip" "zabbix/" "wsn-server.pl" "wsn-server.conf" "WebSphere_MQ.zip" "vrrp.log" "tuhdo.github.io-master.zip" "tsrc.pl" "tmux-master.zip" "Template_IBM_-_IMM2_SNMP.zip" "SocketHandle.zip" "snmp2Ssql/" "slb_prepare_services.pl" "slb-snmp2sql.pl.tar" "slb-snmp2sql.log" "service.tar" "service.log" "scripts.tar" "sberix.tar" "rpm/" "postgresql95-server-9.5.3-2PGDG.rhel7.x86_64.rpm" "postgresql-plpython-9.5.3-1.fc24.x86_64.rpm" "params.php.tar" "noc/" "nm_dump.sql.tar" "MySql_PostgreSQL.zip" "MySql_PostgreSQL/" "mysql2pgsql.perl" "mqm.tar.gz" "mqm/" "mq/" "mibs_xodus/" "l-sctp-msdemo.zip" "install_sm.tar" "fromSigmaHodus/" "forTest/" "forHodus/" "emacs.d-master.zip" "emacs/" "convert_xml_ova.sh" "configure.sh" "Catalyst4500install_ru.pdf" "backup_pg_za.sh" "backup_central.sql" "alter_owner.sql" "alter_owner.sh" "Alteon/" ".tmux.conf_orig" ".tmux.conf.bak" ".tmux.conf.0" ".tmux.conf" "../" "./")
+
+ ("/cygdrive/c/Users/SBT-Pominov-DS/" (22444 6632 63124 100000) "Шаблоны/" "Мои документы/" "Главное меню/" "workspace_tmp/" "workspace_padre/" "workspace_NetBeans/" "workspace_eclipse/" "Videos/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "project/" "PrintHood/" "Pictures/" "perl5/" "ntuser.pol" "ntuser.ini" "NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "Music/" "Mercurial.ini" "Local Settings/" "Links/" "git/" "Favorites/" "Downloads/" "Documents/" "Distrib/" "Dev/" "Desktop/" "Cookies/" "Contacts/" "certstore/" "Application Data/" "AppData/" ".tmux.conf" ".ssh/" ".p2/" ".oracle_jre_usage/" ".local/" ".javahg/" ".imibrowser/" ".gnupg/" ".gitconfig" ".emacs.d/" ".eclipse/" ".cpan/" ".config/" ".cache/" ".bash_history" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
